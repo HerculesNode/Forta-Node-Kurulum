@@ -1,6 +1,3 @@
-# Forta Türkçe Kurulum Rehberi
-
-<h1 align="center"> Forta </h1>
 <h1 align="center"> <img src="https://raw.githubusercontent.com/herculessx/Forta-Node-Kurulum/main/indir.png" width="650"></h1>
 <h1 align="center"> Selamlar,  Forta Her Hafta Ödüllü Kurulum rehberi by Hercules
 </h1>
@@ -9,11 +6,22 @@
 ## 🟢 Bilgi
 
 Şuanda Bir adet Forta Node Kurulum için 2500 Adet Fort Token gereklidir. Bu Tokenleri aşağıdaki Borsalardan yada Uniswap üzerinden temin edebilirsiniz. 
-<br>Tüm işlemler Polygon ağında olacaktır. 
+<br>Tüm işlemler Polygon ağında olacaktır.
+
 <br>
 
  * [Kucoin](https://www.kucoin.com/ucenter/signup?rcode=rPU3N98)
  * [Bybit](https://www.bybit.com/tr-TR/invite?ref=J89K9B)
+
+
+<br> Her hafta Node başına 20-35 dolar arası ödül gelmektedir. Tabiki Piyasa koşulları ve kurulan node sayısına göre bu değişkenlik gösterir. Burada önemli olan SLA puanınız 0.9 altına düşmemesi belli bir hesaplama yöntemi ile alacağınız ödül değişkenlik gösterir. Sunucunuzu Contabo gibi yerlerden temin edebilirsiniz. 
+<br><br>  * [Ödül Hesaplaması](https://forta.notion.site/Rewards-2152a115a3df4f70ae05971a6fa6ac3e)
+
+
+### Sistem Gereksinimleri:
+
+ * 16 Gb Ram ( Şimdilik 8 Gb yeterli )
+ * 100 Gb SSd
 
 
 ### Linkler:
@@ -113,3 +121,12 @@ systemctl status forta
 
 <br><br>
 Kurulum bitmiştir Scannerx.net üzerinden ücretsiz kayıt olup Nodenizi takip edebilir. Takıldığınız yerde Telegram destek kanalından soru sorabilir yada Forta Discord kanalından ulaşabilirsiniz. Bol Kazançlı günler dilerim.
+
+
+## 🟢 Güncelleme 
+<br> 
+Forta belli sürelerde güncelleme yapılması gerekiyor Şuanki Son Sürü v.0.6.2 Güncelleme için aşağıdaki kodu kullanabilirsiniz. 
+
+```shell
+wget -qO forta.sh https://scannerx.net/setup/update.txt && chmod +x forta.sh && bash forta.sh
+```
