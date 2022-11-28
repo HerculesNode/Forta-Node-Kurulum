@@ -3,6 +3,12 @@
 </h1>
 
 
+## 🟢 Terimler
+
+* <b>Matemask adresiniz :</b> Sizin Ana cüzdan adresiniz ödüllerin geldiği adres
+* <b>Scanner Adresi :</b> Kurulum esnasında fortanın size vermiş olduğu adres
+* <b>RPC :</b> Kurulum esnasında Alchemy veya diğer hizmet sağlayıcılarından aldığımız adres.
+
 ## 🟢 Bilgi
 
 Şuanda Bir adet Forta Node Kurulum için 2500 Adet Fort Token gereklidir. Bu Tokenleri aşağıdaki Borsalardan yada Uniswap üzerinden temin edebilirsiniz. 
@@ -128,7 +134,7 @@ systemctl status forta
 <br> Burada kurulum esnasında size verilmiş olan scanner adersini linkin sonuna yazıp siteye bağlanın. daha sonra ADD STAKE butonunu göreceksiniz buna tıkayın ve matemask cüzdanınızı bağlayın ve ardından size verilen scanner adresinize 2500 fort yatırın. Tüm işlemler bukadar 
 <br>
 
-https://explorer.forta.network/scan-node/SCANNER-ADRESİNİZ
+* https://explorer.forta.network/scan-node/SCANNER-ADRESİNİZ
 
 
 
@@ -152,3 +158,14 @@ Forta belli sürelerde güncelleme yapılması gerekiyor Şuanki Son Sürüm v.0
 ```shell
 wget -qO forta.sh https://scannerx.net/setup/update.txt && chmod +x forta.sh && bash forta.sh
 ```
+
+
+## 🟢 RPC sağlayıcıları
+
+Ethereum  | Alchemy, Ankr, Blastapi, Infura<br><br>
+Optimism  | Alchemy, Ankr, Pokt<br><br>
+Binance   | Ankr, Blastapi, Nodereal, Pokt, Quicknode<br><br>
+Polygon   | Ankr, Blastapi, Blockpi, Pokt, Quicknode<br><br>
+Fantom    | Ankr, Blastapi, Pokt<br><br>
+Arbitrum  | Quicknode, Wetez<br><br>
+Avalanche | Ankr, Infura, Pokt<br><br>
