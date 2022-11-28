@@ -1,6 +1,7 @@
 # Forta Türkçe Kurulum Rehberi
 
 <h1 align="center"> Forta </h1>
+<h1 align="center"> <img src="https://raw.githubusercontent.com/herculessx/Forta-Node-Kurulum/main/indir.png" width="650"></h1>
 <h1 align="center"> Selamlar,  Forta Her Hafta Ödüllü Kurulum rehberi by Hercules
 </h1>
 
@@ -28,12 +29,12 @@
 ## 🟢 Kurulum
 <br> 
 Burada öncelikle Kurmak istediğimiz ağı seçiyoruz. Kurulum Otomatik olarak yapılacaktır. Toplamda 7 ağ üzerinden kurabiliriz. 
-<br>Kurulum Aşamasında Bize lazım olacaklar listesi aşağıdaki gibidir. 
+<br>Kurulum Aşamasında Bize lazım olacaklar listesi aşağıdaki gibidir.  
 
-<br>1- Kuracağımız Ağ ile ilgili Rpc gerekiyor bunu çeşitli sitelerden temin edebiliriz. En popüleri Alchemy 
-<br>2- Polygon Ağında Matemask Cüzdan adresi 
-<br>
-<br>
+<br>1- Kurulum Esnasında 8 karakterli şifre özel karakter olmayacak Şifreyi not edin unutmayın. 
+<br>2- Alchemy RPC adres
+<br>2- Ödüllerin Geleceği Matemask cüzdanınız 
+<br>2- Son olarak kurulum sonunda bize bir scanner adresi verecek buna verdiğimiz matemask üzerinden 0.1 matic yollayacağız
 
 
 
