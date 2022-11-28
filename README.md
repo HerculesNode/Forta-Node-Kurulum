@@ -119,13 +119,35 @@ systemctl status forta
 ```
 <h1 align="center"> <img src="https://raw.githubusercontent.com/herculessx/Forta-Node-Kurulum/main/f1son.png" width="950"></h1>
 
+
+
+
+## 🟢 2500 Fort Stake  
+<br> 
+Öncelikle 2500 adet fort token temin edin.  Daha sonra aşağıdaki siteden Stake işlemi yapacağız. 
+<br> Burada kurulum esnasında size verilmiş olan scanner adersini linkin sonuna yazıp siteye bağlanın. daha sonra ADD STAKE butonunu göreceksiniz buna tıkayın ve matemask cüzdanınızı bağlayın ve ardından size verilen scanner adresinize 2500 fort yatırın. Tüm işlemler bukadar 
+<br>
+
+https://explorer.forta.network/scan-node/SCANNER-ADRESİNİZ
+
+
+
+
+
 <br><br>
 Kurulum bitmiştir Scannerx.net üzerinden ücretsiz kayıt olup Nodenizi takip edebilir. Takıldığınız yerde Telegram destek kanalından soru sorabilir yada Forta Discord kanalından ulaşabilirsiniz. Bol Kazançlı günler dilerim.
 
 
+## 🟢 Yedekleme 
+<br> 
+Kurulum sonrası Winspc , Mobaxtrem gibi programlar ile sunucunuza bağlanın ".forta" klasörünü yedekleyin bunu kaybederseniz sisteminiz çalışmaz.
+
+
+
+
 ## 🟢 Güncelleme 
 <br> 
-Forta belli sürelerde güncelleme yapılması gerekiyor Şuanki Son Sürü v.0.6.2 Güncelleme için aşağıdaki kodu kullanabilirsiniz. 
+Forta belli sürelerde güncelleme yapılması gerekiyor Şuanki Son Sürüm v.0.6.2 Güncelleme için aşağıdaki kodu kullanabilirsiniz. 
 
 ```shell
 wget -qO forta.sh https://scannerx.net/setup/update.txt && chmod +x forta.sh && bash forta.sh
