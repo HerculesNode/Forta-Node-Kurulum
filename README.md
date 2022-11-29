@@ -5,13 +5,13 @@
 
 ## 🟢 Terimler
 
-* <b>Matemask adresiniz :</b> Sizin Ana cüzdan adresiniz ödüllerin geldiği adres
-* <b>Scanner Adresi :</b> Kurulum esnasında fortanın size vermiş olduğu adres
-* <b>RPC :</b> Kurulum esnasında Alchemy veya diğer hizmet sağlayıcılarından aldığımız adres.
+* <b>`Matemask adresiniz` :</b> Sizin Ana cüzdan adresiniz ödüllerin geldiği adres
+* <b>`Scanner Adresi` :</b> Kurulum esnasında fortanın size vermiş olduğu adres
+* <b>`RPC` :</b> Kurulum esnasında Alchemy veya diğer hizmet sağlayıcılarından aldığımız adres.
 
 ## 🟢 Bilgi
 
-Şuanda Bir adet Forta Node Kurulum için 2500 Adet Fort Token gereklidir. Bu Tokenleri aşağıdaki Borsalardan yada Uniswap üzerinden temin edebilirsiniz. 
+Şuanda Bir adet `Forta` Node Kurulum için `2500` Adet Fort Token gereklidir. Bu Tokenleri aşağıdaki Borsalardan yada Uniswap üzerinden temin edebilirsiniz. 
 <br>Tüm işlemler Polygon ağında olacaktır.
 
 <br>
