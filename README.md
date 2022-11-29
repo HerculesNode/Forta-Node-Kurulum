@@ -96,6 +96,7 @@ Kurulum esnasında setup sizden Şifre isteyecek 8 karakterli özel karakter olm
 
 <br>
 Kurulum esnasında setup sizden hangi ağda kurulum yaptıysanız onunla ilgili RPC isteyecektir Alchemy üzerinden aldğımız RPC linkini giriyoruz. Hangi Ağda Kurulum yapıyor iseniz onun linkini girmek zorundasınız HTTPS ile başlayan link
+<h1 align="center"> <img src="https://raw.githubusercontent.com/herculessx/Forta-Node-Kurulum/main/alchemy2.png" width="950"></h1>
 <h1 align="center"> <img src="https://raw.githubusercontent.com/herculessx/Forta-Node-Kurulum/main/alchemyforta.png" width="950"></h1>
 
 <br>
